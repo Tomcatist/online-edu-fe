@@ -63,7 +63,7 @@ export default {
       })
       //跳转课程分类列表
       //路由跳转
-      this.$router.push({path:'/subject/list'})
+      this.$router.push({path:'/edu/subject/list'})
     },
     //上传失败
     fileUploadError() {

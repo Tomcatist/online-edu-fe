@@ -71,7 +71,7 @@ export default {
             message: '课程发布成功!'
           });
           //跳转课程列表页面
-          this.$router.push({ path: '/course/list' })
+          this.$router.push({ path: '/edu/course/list' })
         })
 
     }

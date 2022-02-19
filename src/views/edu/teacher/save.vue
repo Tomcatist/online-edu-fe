@@ -156,7 +156,7 @@ export default {
           message: '添加成功!'
         })
         // 回到列表页面,路由跳转
-        this.$router.push({path:'/teacher/table'})
+        this.$router.push({path:'/edu/teacher/list'})
       })
     }
   }
